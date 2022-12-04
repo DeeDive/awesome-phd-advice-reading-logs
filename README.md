@@ -81,7 +81,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [A PhD is Not Enough: A Guide to Survival in Science by Peter Feibelman](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf)
 
-[The PhD in CS: Getting There and Being Successful by Michael Hilton, Janet Davis, and Ian Ludden](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)
+✔[Notes: Good slides with overarching guides)[The PhD in CS: Getting There and Being Successful by Michael Hilton, Janet Davis, and Ian Ludden](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)
 
 ### Statement of purpose
 
