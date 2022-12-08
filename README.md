@@ -133,7 +133,7 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 
 [Finances for CS PhD students by David Anderson](https://da-data.blogspot.com/2016/09/finances-for-cs-phd-students.html)
 
-[A Survival Guide to a PhD by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
+✔[Notes: Author of MinGPT, Stanford PhD student supervised by Fei-Fei; very detailed and inspiring guide for the PhD journey; The most impressive points for me are: 1. fallacy on the hardness of important problems 2. Do things others don’t do but should. Some details on writing papers and giving talk are left to be read.] [A Survival Guide to a PhD by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
 
 [15 pieces of advice I wish my PhD advisor had given me by Jim Kurose](http://www-net.cs.umass.edu/kurose/talks/student_keynote_final.pdf)
 
