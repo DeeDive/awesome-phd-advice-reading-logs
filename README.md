@@ -146,7 +146,7 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
 
 ### Research
 
-[How to Do Great Research by Nick Feamster and Alex Gray](https://greatresearch.org/)
+✔[Notes: This is so coooool! I read https://greatresearch.org/2013/09/20/research-patterns/, and https://greatresearch.org/2013/09/13/cultivating-your-research-taste/ , where the author explains the taste of research by the taste of music. The Research Patterns section is definitely worth revisiting constantly. Other posts are left to read.] [How to Do Great Research by Nick Feamster and Alex Gray](https://greatresearch.org/)
 
 [How to Have a Bad Career How to Have a Bad Career in Research/Academia by David Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 
