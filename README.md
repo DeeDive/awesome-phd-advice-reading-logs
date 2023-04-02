@@ -158,7 +158,7 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
 
 ### Reading
 
-[How to Read a Paper by Srinivasan Keshav](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+[How to Read a Paper by Srinivasan Keshav](http://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)
 
 [How to Read a Technical Paper by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 
