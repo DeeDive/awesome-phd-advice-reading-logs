@@ -259,3 +259,6 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 [How to get a Ph.D. in computer science if you're me by Chris Martens](http://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)
 
 [The N=1 guide to grad school by Adam Marcus](http://marcua.net/writing/gradschool-guide/)
+
+## Reading Queue
+https://www.cs.unc.edu/~azuma/hitch4.html
