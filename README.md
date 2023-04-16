@@ -144,7 +144,7 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
 
 [Expectation Setting by Eugene Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)
 
-✔[Notes: Good to read. Very practical and hands-on advice for the next generation to avoid their missteps. What I learn from this redbook is to reduce uncertainties by talking to others candidly. It manifests the preferred way of communications of Americans. Some good quotes: "turn those lemons into lemonade", "paper quality matters more than quantity", "Bounce your ideas off other colleagues", "Start meeting people early: you will only grow busier.", "If you do leave, try not to burn any bridges", "If you are unsure what you want, aim high." ][The Redbook (Stanford-specific)](https://cs.stanford.edu/degrees/phd/PhD/theredbook.pdf)
+✔[Notes: Good to read. Very practical and hands-on learned wisdom and advice for the next generation to avoid their missteps. What I learn from this redbook is to reduce uncertainties by talking to others candidly. It manifests the preferred way of communications of Americans. Some good quotes: "turn those lemons into lemonade", "paper quality matters more than quantity", "Bounce your ideas off other colleagues", "Start meeting people early: you will only grow busier.", "If you do leave, try not to burn any bridges", "If you are unsure what you want, aim high." ; Also, note that the redbook is inspired from the bluebook from Purdue, i.e an act of giving.][The Redbook (Stanford-specific)](https://cs.stanford.edu/degrees/phd/PhD/theredbook.pdf)
 
 ### Research
 
