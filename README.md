@@ -144,6 +144,8 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
 
 [Expectation Setting by Eugene Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)
 
+✔[Notes: Good to read. Very practical and hands-on advice for the next generation to avoid their missteps. What I learn from this redbook is to reduce uncertainties by talking to others candidly. It manifests the preferred way of communications of Americans. Some good quotes: "turn those lemons into lemonade", "paper quality matters more than quantity", "Bounce your ideas off other colleagues", "Start meeting people early: you will only grow busier.", "If you do leave, try not to burn any bridges", "If you are unsure what you want, aim high." ][The Redbook (Stanford-specific)](https://cs.stanford.edu/degrees/phd/PhD/theredbook.pdf)
+
 ### Research
 
 ✔[Notes: This is so coooool! I read https://greatresearch.org/2013/09/20/research-patterns/, and https://greatresearch.org/2013/09/13/cultivating-your-research-taste/ , where the author explains the taste of research by the taste of music. The Research Patterns section is definitely worth revisiting constantly. Other posts are left to read.] [How to Do Great Research by Nick Feamster and Alex Gray](https://greatresearch.org/)
@@ -260,5 +262,18 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 
 [The N=1 guide to grad school by Adam Marcus](http://marcua.net/writing/gradschool-guide/)
 
-## Reading Queue
+## **My** Reading Queue
 https://www.cs.unc.edu/~azuma/hitch4.html
+
+Tomorrow’s Professor, by Rick Reis. A very good book on
+what to do while you’re in grad school in order to land a
+faculty job.
+
+http://www.cs.cmu.edu/~jasonh/advice.html
+
+Lower priority may be given to this content because similar material has likely been read before.
+
+PhorbiDden PhooD: Real Secrets to Mastering the PhD Adventure, by Chand T. John. Account by another former
+Ph.D. student, also with much advice. Also available as a
+free ebook.
+https://sites.google.com/site/chandtjohn/phorbidden-phood
