@@ -83,6 +83,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ✔[Notes: Good slides with overarching guides)[The PhD in CS: Getting There and Being Successful by Michael Hilton, Janet Davis, and Ian Ludden](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)
 
+✔[Detailed, in-depth general advice. It impresses me immediately when I first read it even if I have read general advice from other great minds. Containing very good advice on topics like collaboration, leadership, internship, advertising the work. "There are some evil people out there. As you rise, many people will disapprove. Rise anyway." I believe this presentation is quite different from what I have seen previously. Probably it is because women are more considerate and thoughtful.] [The Art of Doing Good Research by Heng Ji @ UIUC](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fblender.cs.illinois.edu%2Fresearch%2FResearchSkills.pptx&wdOrigin=BROWSELINK)
+
 ### Statement of purpose
 
 [Database of Example PhD SOPs by the CS-SOP initiative](https://cs-sop.org)
@@ -157,6 +159,8 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
 [You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 [Advice on Research and Writing by Mark Leone](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
+
+✔[john schulman's Guide for ML research! So cool! Very practical advice from different perspective. Like research styles with case studies (including the development of the PPO), suggestions on reading textbook and reimplementing seminal papers, expanding the comfort zone of knowledge, switching problems, chatting with others in a group of same direction, and taking notes] [http://joschu.net/blog/opinionated-guide-ml-research.html](http://joschu.net/blog/opinionated-guide-ml-research.html)
 
 ### Reading
 
