@@ -51,6 +51,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
 
+[AI Research Experiences by Pranav Rajpurkar](https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit#)
+
 ## Advice for prospective students
 
 ### General advice
@@ -70,6 +72,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [Machine Learning PhD Applications — Everything You Need to Know by Tim Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)
 
 [Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
+
+[Demystifying PhD Admissions in Computer Science in the US: a Guide for Vietnamese and International Students by ThanhVu Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)
 
 [A long, rambling, mostly personal corpus of advice on applying to Computer Science grad school (for UWCSE students) by Justine Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)
 
