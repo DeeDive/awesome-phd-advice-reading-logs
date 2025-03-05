@@ -163,6 +163,7 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
   - read the https://greatresearch.org/2013/09/06/you-and-your-research-proposal/ which illustrates the purpose of proposal and shows how to write a good proposal: 1. get to the point asap. given the nature of proposal reviewing 2. a promising story 3. four whys - Why Important, Why Hard, Why Now, Why You? 4. Be meticulous to details and typos. 5. checklist. 6. invite friends/natives for reviewing.
   - read https://greatresearch.org/2013/08/31/time-management-tactics-for-academics/. This post is complementary to Alan Lakein's How to Get Control of Your Time and Your Life. It introduces new concept about unstructured nature for academics, and I found 4Bs, **Bits**, Budget, Buffer, Bounds quite inspiring.
   - read https://greatresearch.org/2013/08/14/managing-your-advisor/, and it contains handy advices on working with PhD advisor.
+  - read https://greatresearch.org/2013/08/23/why-get-a-ph-d/, which points out four future landings for a PhD, academia, industrial research lab, gov lab, and startup.
   - read https://greatresearch.org/2013/08/30/industry-or-academia-a-counterpoint/, the author Professor Nick Feamster presents his perspective on industrial vs. academic positions, based on his credible experiences in startup, corporation, and academia.
   
            
