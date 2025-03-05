@@ -156,6 +156,14 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
 
 ✔[Notes: This is so coooool! I read https://greatresearch.org/2013/09/20/research-patterns/, and https://greatresearch.org/2013/09/13/cultivating-your-research-taste/ , where the author explains the taste of research by the taste of music. The Research Patterns section is definitely worth revisiting constantly. Other posts are left to read.] [How to Do Great Research by Nick Feamster and Alex Gray](https://greatresearch.org/)
 
+03/05/2025 - reread the https://greatresearch.org/2013/09/20/research-patterns/ and it gives some patterns on finding and solving a problem, e.g. tracing workshop and its upstream grant, dreaming you want, specializing the general, generalizing the specific, revisiting the old problems' assumptions, removing the pain points and automating the solution, finding the most important linchpins that are assumptions of many prior works for finding problems, making analogies and iteratively refinement, working backward, simplifying assumptions, and talking to others for solving a problem.
+           - reread the https://greatresearch.org/2013/09/13/cultivating-your-research-taste/ and it gives some angles to evaluate a problem/paper/area (importance of a problem, elegance or ornate design of a solution, what is the conclusion and its importance, whether the content supports the conclusion)
+           - read the https://greatresearch.org/2013/09/06/you-and-your-research-proposal/ which illustrates the purpose of proposal and shows how to write a good proposal: 1. get to the point asap. given the nature of proposal reviewing 2. a promising story 3. four whys - Why Important, Why Hard, Why Now, Why You? 4. Be meticulous to details and typos. 5. checklist. 6. invite friends/natives for reviewing.
+           - read https://greatresearch.org/2013/08/31/time-management-tactics-for-academics/. This post is complementary to Alan Lakein's How to Get Control of Your Time and Your Life. It introduces new concept about unstructured nature for academics, and I found 4Bs, **Bits**, Budget, Buffer, Bounds quite inspiring.
+           - read https://greatresearch.org/2013/08/14/managing-your-advisor/, and it contains handy advices on working with PhD advisor.
+           - read https://greatresearch.org/2013/08/30/industry-or-academia-a-counterpoint/, the author Professor Nick Feamster presents his perspective on industrial vs. academic positions, based on his credible experiences in startup, corporation, and academia.
+           
+           
 [How to Have a Bad Career How to Have a Bad Career in Research/Academia by David Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 
 [Useful Thoughts about Research by H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/)
