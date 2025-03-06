@@ -166,7 +166,9 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
   - read https://greatresearch.org/2013/08/23/why-get-a-ph-d/, which points out four future landings for a PhD, academia, industrial research lab, gov lab, and startup.
   - read https://greatresearch.org/2013/08/30/industry-or-academia-a-counterpoint/, the author Professor Nick Feamster presents his perspective on industrial vs. academic positions, based on his credible experiences in startup, corporation, and academia.
   
-           
+[write-the-paper-first] Read https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf where I learn a new tip for me about starting to write first https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html Even before large scale experimentation. The reasons are including 1. people read your paper and then decide whether to read your experiment section. 2. it helps you thinking detailedly and organize your thoughts.
+
+
 [How to Have a Bad Career How to Have a Bad Career in Research/Academia by David Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 
 [Useful Thoughts about Research by H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/)
