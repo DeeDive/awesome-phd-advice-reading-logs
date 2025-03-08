@@ -162,20 +162,21 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
   - reread the https://greatresearch.org/2013/09/13/cultivating-your-research-taste/ and it gives some angles to evaluate a problem/paper/area (importance of a problem, elegance or ornate design of a solution, what is the conclusion and its importance, whether the content supports the conclusion)
   - read the https://greatresearch.org/2013/09/06/you-and-your-research-proposal/ which illustrates the purpose of proposal and shows how to write a good proposal: 1. get to the point asap. given the nature of proposal reviewing 2. a promising story 3. four whys - Why Important, Why Hard, Why Now, Why You? 4. Be meticulous to details and typos. 5. checklist. 6. invite friends/natives for reviewing.
   - read https://greatresearch.org/2013/08/31/time-management-tactics-for-academics/. This post is complementary to Alan Lakein's How to Get Control of Your Time and Your Life. It introduces new concept about unstructured nature for academics, and I found 4Bs, **Bits**, Budget, Buffer, Bounds quite inspiring.
-  - read https://greatresearch.org/2013/08/14/managing-your-advisor/, and it contains handy advices on working with PhD advisor.
+  - read https://greatresearch.org/2013/08/14/managing-your-advisor/, and it contains handy advice on working with PhD advisor.
   - read https://greatresearch.org/2013/08/23/why-get-a-ph-d/, which points out four future landings for a PhD, academia, industrial research lab, gov lab, and startup.
   - read https://greatresearch.org/2013/08/30/industry-or-academia-a-counterpoint/, the author Professor Nick Feamster presents his perspective on industrial vs. academic positions, based on his credible experiences in startup, corporation, and academia.
   
-[write-the-paper-first] Read https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf where I learn a new tip for me about starting to write first https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html Even before large scale experimentation. The reasons are including 1. people read your paper and then decide whether to read your experiment section. 2. it helps you thinking detailedly and organize your thoughts.
+✔[write-the-paper-first] Read https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf where I learn a new tip for me about starting to write first https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html Even before large scale experimentation. The reasons are including 1. people read your paper and then decide whether to read your experiment section. 2. it helps you thinking detailedly and organize your thoughts.
+
 
 
 [How to Have a Bad Career How to Have a Bad Career in Research/Academia by David Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 
-[Useful Thoughts about Research by H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/)
+✔[Useful Thoughts about Research by H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/) - it compares theory and system research and provides quite a few handy tips. Good to revisit.
 
 [You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-[Advice on Research and Writing by Mark Leone](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
+[Advice on Research and Writing by Mark Leone](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html) I partially read Prescription for Burnout  at MIT https://web.archive.org/web/20030210120334/http://155.187.10.12/fun/burnout.html More sections like research skills, writing, and presenting are left to read.
 
 ✔[john schulman's Guide for ML research! So cool! Very practical advice from different perspective. Like research styles with case studies (including the development of the PPO), suggestions on reading textbook and reimplementing seminal papers, expanding the comfort zone of knowledge, switching problems, chatting with others in a group of same direction, and taking notes] [http://joschu.net/blog/opinionated-guide-ml-research.html](http://joschu.net/blog/opinionated-guide-ml-research.html)
 
