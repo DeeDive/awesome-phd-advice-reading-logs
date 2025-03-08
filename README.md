@@ -176,7 +176,11 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
 
 [You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-[Advice on Research and Writing by Mark Leone](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html) I partially read Prescription for Burnout  at MIT https://web.archive.org/web/20030210120334/http://155.187.10.12/fun/burnout.html More sections like research skills, writing, and presenting are left to read.
+[Advice on Research and Writing by Mark Leone](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html) I partially 
+  - read Prescription for Burnout  at MIT https://web.archive.org/web/20030210120334/http://155.187.10.12/fun/burnout.html
+  - read Sec 8 Finding a Topic and Beginning Research https://www.cs.umd.edu/~oleary/gradstudy/node9.html in [GRADUATE STUDY IN THE COMPUTER AND MATHEMATICAL SCIENCES:
+A SURVIVAL MANUAL](http://www.cs.umd.edu/~oleary/gradstudy/gradstudy.html) and this gives in-depth advice on starting a research topic, like active reading instead of starting after reading all of the literature (it cannot be finished).
+  -  More sections like research skills, writing, and presenting are left to read.
 
 ✔[john schulman's Guide for ML research! So cool! Very practical advice from different perspective. Like research styles with case studies (including the development of the PPO), suggestions on reading textbook and reimplementing seminal papers, expanding the comfort zone of knowledge, switching problems, chatting with others in a group of same direction, and taking notes] [http://joschu.net/blog/opinionated-guide-ml-research.html](http://joschu.net/blog/opinionated-guide-ml-research.html)
 
