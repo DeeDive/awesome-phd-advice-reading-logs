@@ -172,7 +172,7 @@ outside CS] [15 pieces of advice I wish my PhD advisor had given me by Jim Kuros
 
 [How to Have a Bad Career How to Have a Bad Career in Research/Academia by David Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
 
-✔[Useful Thoughts about Research by H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/) - it compares theory and system research and provides quite a few handy tips. Good to revisit.
+✔[Useful Thoughts about Research by H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/) - This is great! it compares theory and system research and provides quite a few handy tips. Also providing advice on what research topic are generally promising (whether it is considered by many ancestors), and what the pitfalls are during the PhD process. Definitely good to revisit. 
 
 [You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
